@@ -1,4 +1,4 @@
-#📘 Bachelor Thesis: The Impact of Player Experience Data on Game Modifications and Company Stocks
+📘 Bachelor Thesis: The Impact of Player Experience Data on Game Modifications and Company Stocks
 This thesis explores the intersection of game development, user engagement, and financial performance in the video game industry. It presents a data-driven framework to evaluate how game updates influence both player behavior and company stock prices.
 
 🔍 What’s inside
